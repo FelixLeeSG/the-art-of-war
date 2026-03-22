@@ -13,6 +13,7 @@
 | [`/defense-review`](skills/defense-review.md) | 军形篇 + 笑里藏刀 + 关门捉贼 | 防御性架构审查 |
 | [`/retreat-plan`](skills/retreat-plan.md) | 走为上计 + 空城计 + 李代桃僵 | 回滚与止损方案 |
 
-## 分析报告
+## 文档
 
-详见 [ANALYSIS.md](ANALYSIS.md) — 完整的孙子兵法十三篇与三十六计到软件工程的映射分析。
+- [ANALYSIS.md](ANALYSIS.md) — 完整的孙子兵法十三篇与三十六计到软件工程的映射分析
+- [ENTERPRISE-GUIDE.md](ENTERPRISE-GUIDE.md) — 企业场景应用指南，含 6 个 Skill 的实战案例与落地路径
